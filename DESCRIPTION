@@ -8,5 +8,7 @@ Authors@R: c(
   )
 Description: My collection of RStudio addins
 License: MIT + file LICENSE
+URL: https://github.com/EduardoJacob/minitools
 Encoding: UTF-8
 LazyData: true
+BugReports: https://github.com/EduardoJacob/minitools/issues
