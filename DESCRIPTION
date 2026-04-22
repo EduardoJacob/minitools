@@ -1,7 +1,7 @@
 Package: minitools
 Type: Package
 Title: RStudioAddIns - minitools
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: c(
     person("Eduardo", "Jacob", , "eduardo.jorge.jacob@hotmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0009-2103-852X"))
