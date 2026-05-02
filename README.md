@@ -39,3 +39,9 @@ This function transforms the selected text into title case, where the first lett
 **uppercase**
 This function converts all characters within the selected text to upper case. It applies the base R `toupper` function to the selection, providing a quick way to emphasize or format headers and constants.
 
+**sortfunctions**
+This function inserts current Functions loaded on Global Environment into the active document. 
+
+
+
+

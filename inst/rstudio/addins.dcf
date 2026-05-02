@@ -32,3 +32,8 @@ Name: Align Text
 Description: Align selection text
 Binding: aligntext
 Interactive: false
+
+Name: Sort Functions
+Description: Insert Global Environment Function definitions into current Selection
+Binding: sortfunctions
+Interactive: false

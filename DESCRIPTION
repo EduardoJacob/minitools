@@ -1,7 +1,7 @@
 Package: minitools
 Type: Package
 Title: RStudioAddIns - minitools
-Version: 1.0.0
+Version: 2026.05.02
 Authors@R: c(
     person("Eduardo", "Jacob", , "eduardo.jorge.jacob@hotmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0009-2103-852X"))
@@ -10,7 +10,8 @@ Description: My collection of RStudio addins.
 License: MIT + file LICENSE
 Imports:
     rstudioapi,
-    stringr
+    stringr,
+    utils
 URL: https://github.com/EduardoJacob/minitools
 Encoding: UTF-8
 BugReports: https://github.com/EduardoJacob/minitools/issues
